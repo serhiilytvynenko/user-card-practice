@@ -68,7 +68,7 @@ p {
   font-size: 15px;
 }
 
-input[type=submit] {
+input[type=button] {
   background-color: #25b1f1;
   border: none;
   color: white;
